@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Peter Brian Mwangi</h1>
-<h3 align="center">Passionate Full Stack software engineer from Kenya</h3>
+<h3 align="center">Passionate Full Stack software engineer and Cloud Practitioner from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-mwangi254&label=Profile%20views&color=0e75b6&style=flat" alt="peter-mwangi254" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pm6093628" target="blank"><img src="https://img.shields.io/twitter/follow/pm6093628?logo=twitter&style=for-the-badge" alt="pm6093628" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering at ALX AFRICA**
+- 🌱 I’m a  ** FullStack Software Engineering and Certified Cloud Practitioner**
 
 - 👯 I’m looking to collaborate on **software engineering projects and open source projects**
 
