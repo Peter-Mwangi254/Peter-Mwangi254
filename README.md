@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pm6093628" target="blank"><img src="https://img.shields.io/twitter/follow/pm6093628?logo=twitter&style=for-the-badge" alt="pm6093628" /></a> </p>
 
-- 🌱 I’m a FullStack Software Engineering and Certified Cloud Practitioner
+- 🌱 I’m a FullStack Software Engineer and Certified Cloud Practitioner
 
 - 👯 I’m looking to collaborate on **software engineering projects and open source projects**
 
